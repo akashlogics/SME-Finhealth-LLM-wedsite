@@ -8,6 +8,10 @@
     "strict": true,
     "skipLibCheck": true
   },
-  "include": ["**/*.ts"],
-  "exclude": ["node_modules"]
+  "include": [
+    "index.ts",
+    "routes/**/*.ts",
+    "finance/**/*.ts",
+    "ai/**/*.ts"
+  ]
 }
