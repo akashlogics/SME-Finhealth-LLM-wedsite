@@ -1,0 +1,5 @@
+{
+  "retail": { "profitMargin": 12, "inventoryTurnover": 8 },
+  "manufacturing": { "profitMargin": 18, "inventoryTurnover": 5 },
+  "services": { "profitMargin": 25 }
+}
